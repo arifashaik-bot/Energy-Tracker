@@ -7,7 +7,7 @@ A modern, scalable, cloud-ready web application to monitor, analyze, and optimiz
 ## 🚀 LIVE DEMO
 
 🔗 **Deployed Link:**  
-👉 https://YOUR_DEPLOYED_LINK_HERE
+👉 https://energy-tracker-project.vercel.app/
 
 ---
 
@@ -63,7 +63,7 @@ Smart Meter (Simulated IoT)
 
 ---
 
-## ✨ FEATURES SHOWCASE
+## ✨ FEATURES 
 
 ### 🔟 Powerful Features for Complete Energy Management
 
@@ -95,4 +95,3 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
-
