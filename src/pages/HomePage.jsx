@@ -151,7 +151,7 @@ function HomePage() {
       </section>
 
       <footer className="home-footer">
-        <p>⚡ Energy Tracker © 2024 · Track, analyze, and reduce your energy consumption with confidence.</p>
+        <p>⚡ Energy Tracker © 2026 · Track, analyze, and reduce your energy consumption with confidence.</p>
       </footer>
     </div>
   );
