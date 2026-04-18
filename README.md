@@ -85,7 +85,7 @@ Smart Meter (Simulated IoT)
 ## ⚙️ INSTALLATION & RUN
 
 ```bash
-git clone https://github.com/arifashaik-bot/Energy-Tracker.git
+git clone https://github.com/arifashaik-bot/Energy-Tracker
 cd Energy-Tracker
 npm install
 npm run dev
